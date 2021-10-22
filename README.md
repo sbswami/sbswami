@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shyam
+- 👀 I’m interested in building things which are solving problem in real world
+- 🌱 I’m currently learning Android with Kotlin
+- 💞️ I’m looking to collaborate on Flutter
+- 📫 How to reach me sbswami18@gmail.com
