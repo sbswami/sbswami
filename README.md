@@ -27,9 +27,6 @@ With 5 years of experience in the tech industry, I'm passionate about crafting e
 - 💰 Developed a centralized pricing module, streamlining payment systems and enabling easy experimentation
 - 🎨 Led a team in creating a comprehensive component library and design system, achieving full adoption across web projects
 
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 🌟 Featured Projects
 
